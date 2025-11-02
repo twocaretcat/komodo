@@ -1,12 +1,12 @@
 /* ==UserStyle==
 @name           Custom Styles for Komodo
-@namespace      https://github.com/jerboa88
+@namespace      https://github.com/twocaretcat
 @version        1.0.0
 @author         John Goodliff
 @description    A userstyle that adds custom styling for additional features on Komoot.com route planning.
 @license        MIT
 @homepageURL    https://johng.io/p/komodo
-@supportURL     https://github.com/jerboa88/komodo/issues
+@supportURL     https://github.com/twocaretcat/komodo/issues
 ==/UserStyle== */
 
 @-moz-document domain('www.komoot.com') {

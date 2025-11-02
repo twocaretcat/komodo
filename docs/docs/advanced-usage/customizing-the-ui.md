@@ -40,7 +40,7 @@ For a more complete example, see [examples/custom-styles-for-komodo.user.css]. T
 [custom-pills-screenshot]: /route-list-page-custom-pills.png
 [kitchen-sink-screenshot]: /route-list-page-kitchen-sink.png
 
-[src/constants.ts]: https://github.com/jerboa88/komodo/blob/main/src/constants.ts
-[src/global.css]: https://github.com/jerboa88/komodo/blob/main/src/global.css
-[examples/custom-wip-tag-style.css]: https://github.com/jerboa88/komodo/blob/main/examples/custom-wip-tag-style.css
-[examples/custom-styles-for-komodo.user.css]: https://github.com/jerboa88/komodo/blob/main/examples/custom-styles-for-komodo.user.css
+[src/constants.ts]: https://github.com/twocaretcat/komodo/blob/main/src/constants.ts
+[src/global.css]: https://github.com/twocaretcat/komodo/blob/main/src/global.css
+[examples/custom-wip-tag-style.css]: https://github.com/twocaretcat/komodo/blob/main/examples/custom-wip-tag-style.css
+[examples/custom-styles-for-komodo.user.css]: https://github.com/twocaretcat/komodo/blob/main/examples/custom-styles-for-komodo.user.css

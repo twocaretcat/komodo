@@ -102,7 +102,7 @@ This script uses the tags found in the tour list to populate the filter controls
 
 By default, Komoot only loads a handful of tours at a time, so if you notice that some tag names/values are missing from the filter controls, click the `Load All Routes`/`Load All Activities` button to force load the entire list of tours. This may take a few seconds to complete.
 
-[src/constants.ts]: https://github.com/jerboa88/komodo/blob/main/src/constants.ts
+[src/constants.ts]: https://github.com/twocaretcat/komodo/blob/main/src/constants.ts
 
 [advanced usage]: /docs/advanced-usage/customizing-the-ui
 [build the script]: /contributing/local-development

@@ -1,9 +1,9 @@
 # 🤝 Contributing
 
 <!-- #region summary -->
-If you encounter any problems with the script, feel free to [create an issue](https://github.com/jerboa88/komodo/issues).
+If you encounter any problems with the script, feel free to [create an issue](https://github.com/twocaretcat/komodo/issues).
 
-Pull requests, bug reports, translations, and other kinds of contributions are greatly appreciated. By contributing code, you agree to license your contributions under the terms of [the license](https://github.com/jerboa88/komodo/blob/main/LICENSE).
+Pull requests, bug reports, translations, and other kinds of contributions are greatly appreciated. By contributing code, you agree to license your contributions under the terms of [the license](https://github.com/twocaretcat/komodo/blob/main/LICENSE).
 <!-- #endregion summary -->
 
 ## Guidelines

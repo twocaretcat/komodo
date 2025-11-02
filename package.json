@@ -18,7 +18,7 @@
 		"komoot"
 	],
 	"homepage": "https://johng.io/p/komodo",
-	"bugs": "https://github.com/jerboa88/komodo/issues",
+	"bugs": "https://github.com/twocaretcat/komodo/issues",
 	"license": "MIT",
 	"author": {
 		"name": "John Goodliff",
@@ -31,11 +31,11 @@
 		},
 		{
 			"type": "GitHub Sponsors",
-			"url": "https://github.com/sponsors/jerboa88"
+			"url": "https://github.com/sponsors/twocaretcat"
 		},
 		{
 			"type": "Patreon",
-			"url": "https://patreon.com/jerboa88"
+			"url": "https://patreon.com/twocaretcat"
 		},
 		{
 			"type": "Brave Creators",
@@ -49,7 +49,7 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jerboa88/komodo.git"
+		"url": "git+https://github.com/twocaretcat/komodo.git"
 	},
 	"scripts": {
 		"dev": "vite",

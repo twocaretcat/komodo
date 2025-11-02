@@ -27,12 +27,12 @@ The sources above are updated when there is a new release. If you want to live o
 [this comparison table]: https://github.com/awesome-scripts/awesome-userscripts?tab=readme-ov-file#compatibility
 
 [GreasyFork]: https://greasyfork.org/
-[releases page]: https://github.com/jerboa88/komodo/releases
+[releases page]: https://github.com/twocaretcat/komodo/releases
 
 [latest-source-badge]: https://img.shields.io/badge/%F0%9F%A7%A9_Install-komodo.user.js-blue
 [latest-greasyfork-badge]: https://img.shields.io/greasyfork/v/545361-komodo-mods-for-komoot?color=%23990000
-[latest-release-badge]: https://img.shields.io/github/v/release/jerboa88/komodo
+[latest-release-badge]: https://img.shields.io/github/v/release/twocaretcat/komodo
 
-[latest-source]: https://github.com/jerboa88/komodo/raw/refs/heads/main/dist/komodo.user.js
+[latest-source]: https://github.com/twocaretcat/komodo/raw/refs/heads/main/dist/komodo.user.js
 [latest-greasyfork]: https://greasyfork.org/en/scripts/545361-komodo-mods-for-komoot
-[latest-release]: https://github.com/jerboa88/komodo/releases/latest
+[latest-release]: https://github.com/twocaretcat/komodo/releases/latest

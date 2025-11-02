@@ -6,15 +6,15 @@
   </a>
   <p class="projectBadges info">
     <img src="https://johng.io/badges/category/Script.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/jerboa88/komodo.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/jerboa88/komodo.svg" alt="Repository size" title="Repository size">
-    <a href="LICENSE"><img src="https://img.shields.io/github/license/jerboa88/komodo.svg" alt="Project license" title="Project license"/></a>
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/komodo.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/komodo.svg" alt="Repository size" title="Repository size">
+    <a href="LICENSE"><img src="https://img.shields.io/github/license/twocaretcat/komodo.svg" alt="Project license" title="Project license"/></a>
     <a href="https://github.com/semantic-release/semantic-release"><img src="https://img.shields.io/badge/semantic--release-conventionalcommits-e10079?logo=semantic-release" alt="Semantic Release" title="Semantic Release"/></a>
   </p>
   <p class="projectBadges status">
-    <a href="https://github.com/jerboa88/enhancements-for-komoot/releases/latest"><img src="https://img.shields.io/github/v/release/jerboa88/enhancements-for-komoot.svg" alt="Latest release" title="Latest release"/></a>
+    <a href="https://github.com/twocaretcat/enhancements-for-komoot/releases/latest"><img src="https://img.shields.io/github/v/release/twocaretcat/enhancements-for-komoot.svg" alt="Latest release" title="Latest release"/></a>
     <a href="https://greasyfork.org/en/scripts/545361-komodo-mods-for-komoot"><img src="https://img.shields.io/greasyfork/v/545361-komodo-mods-for-komoot?color=%23990000" alt="Greasy Fork Version" title="Greasy Fork Version"/></a>
-    <a href="https://github.com/jerboa88/komodo/raw/refs/heads/main/dist/komodo.user.js"><img src="https://img.shields.io/badge/%F0%9F%A7%A9_Install-komodo.user.js-blue" alt="Install" title="Install"/></a>
+    <a href="https://github.com/twocaretcat/komodo/raw/refs/heads/main/dist/komodo.user.js"><img src="https://img.shields.io/badge/%F0%9F%A7%A9_Install-komodo.user.js-blue" alt="Install" title="Install"/></a>
   </p>
   <p class="projectDesc">
     A userscript for Komoot.com that adds additional features for route planning.
@@ -58,7 +58,7 @@ This project is not affiliated with or endorsed by Komoot in any way.
 
 ## 🖇️ Related
 
-- **[Better Segments for Strava](https://github.com/jerboa88/better-segments-for-strava)** - A userscript for Strava that adds additional stats and features to the starred segments page.
+- **[Better Segments for Strava](https://github.com/twocaretcat/better-segments-for-strava)** - A userscript for Strava that adds additional stats and features to the starred segments page.
 
 ## 💕 Funding
 
@@ -75,5 +75,5 @@ If you can't donate but still want to contribute, don't worry. There are many ot
 I appreciate the support!
 
 <!-- We need to use an absolute URL here so Vitepress knows it's an external link -->
-[the license]: https://github.com/jerboa88/komodo/blob/main/LICENSE
+[the license]: https://github.com/twocaretcat/komodo/blob/main/LICENSE
 <!-- #endregion main -->

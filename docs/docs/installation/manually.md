@@ -23,7 +23,7 @@ You can also run the script by going to [a supported page], copying the code in 
 
 :::
 
-[dist/komodo.user.js]: https://github.com/jerboa88/komodo/blob/main/dist/komodo.user.js
+[dist/komodo.user.js]: https://github.com/twocaretcat/komodo/blob/main/dist/komodo.user.js
 
 [troubleshooting]: ../troubleshooting/
 [a supported page]: ../usage/#supported-pages

@@ -53,13 +53,13 @@ export default defineConfig({
 			})),
 		),
 		editLink: {
-			pattern: 'https://github.com/jerboa88/komodo/edit/main/docs/:path',
+			pattern: 'https://github.com/twocaretcat/komodo/edit/main/docs/:path',
 			text: 'Edit this page on GitHub',
 		},
 		socialLinks: [
 			{
 				icon: 'github',
-				link: 'https://github.com/jerboa88/komodo',
+				link: 'https://github.com/twocaretcat/komodo',
 			},
 		],
 		search: {

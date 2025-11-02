@@ -18,7 +18,7 @@ export default defineConfig({
 			userscript: {
 				name: `${PROJECT.NAME} - ${PROJECT.TAGLINE}`,
 				icon: iconBase64,
-				namespace: 'https://github.com/jerboa88',
+				namespace: 'https://github.com/twocaretcat',
 				match: ['https://www.komoot.com/*'],
 				grant: 'none',
 			},

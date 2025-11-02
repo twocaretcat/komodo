@@ -17,7 +17,7 @@ hero:
       link: /contributing/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/jerboa88/komodo
+      link: https://github.com/twocaretcat/komodo
 features:
   - icon: 🏷️
     title: Tags
