@@ -1,10 +1,20 @@
-# 🤝 Contributing
+# 🤝 Contributing Guidelines
 
 <!-- #region summary -->
 If you encounter any problems with the script, feel free to [create an issue](https://github.com/twocaretcat/komodo/issues).
 
-Pull requests, bug reports, translations, and other kinds of contributions are greatly appreciated. By contributing code, you agree to license your contributions under the terms of [the license](https://github.com/twocaretcat/komodo/blob/main/LICENSE).
+Pull requests, bug reports, translations, and other kinds of contributions are welcome.
 <!-- #endregion summary -->
+
+## Finding Issues to Work On
+
+Issues with the `🚦 ready` label are ready to be worked on. If you comment on an issue, I can assign it to you.
+
+Issues with the `🚦 needs triage` label generally need some more information before they can be worked on, but if you
+**start a discussion** about it or leave a comment on the issue, I can likely get it ready for you.
+
+If an issue is unclear or you have any questions about how a feature should be implemented, reach out before making any
+changes so we can discuss the best way to do it.
 
 ## Guidelines
 
@@ -70,3 +80,7 @@ Vite is used to build both the docs and the script itself, but they are built se
 | --- | --- |
 | Prepare | Install Git hooks using Husky when the package is installed. |
 | Post Version | Build the script and save the output to `dist/` when the version is updated. |
+
+## License
+
+By contributing to this project, you agree that your contributions will be licensed under the project license.
